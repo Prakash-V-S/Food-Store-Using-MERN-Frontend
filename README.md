@@ -7,6 +7,13 @@ This project is a MERN (MongoDB, Express.js, React.js, Node.js) based web applic
 - **Email:** admin@gmail.com
 - **Password:** 12341234
 
+### Note: Using PayPal Sandbox for Purchasing Food
+
+For testing purposes, this project utilizes a PayPal sandboxed account to simulate the purchasing experience. When making purchases in the customer view, you can use the following PayPal sandboxed account credentials:
+
+- **Email:** sb-wjlty29918938@personal.example.com
+- **Password:** XfPqP5)&
+
 ## Features
 
 1. **Admin Dashboard:**
@@ -21,8 +28,6 @@ This project is a MERN (MongoDB, Express.js, React.js, Node.js) based web applic
    - View order history.
 
 ## Skills Used
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
