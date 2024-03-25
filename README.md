@@ -14,6 +14,11 @@ For testing purposes, this project utilizes a PayPal sandboxed account to simula
 - **Email:** sb-wjlty29918938@personal.example.com
 - **Password:** XfPqP5)&
 
+  ## Deployment
+
+This project has been successfully deployed using [Render](https://food-store-using-mern.onrender.com) for both frontend and backend components. Render provides a seamless deployment experience with easy scaling and management of web applications.
+
+
 ## Features
 
 1. **Admin Dashboard:**
